@@ -30,3 +30,6 @@ Takeaways:
 - RMSE without grades: 4.19, R²: 0.14
 - Alcohol consumption negatively correlates with final grades.
 - Early interventions can focus on non-grade factors when grades are not yet available.
+
+Student Academic Performance Dataset:
+This dataset is available from the UCI Machine Learning Repository. It contains 30 attributes describing students in mathematics and Portuguese courses. The main objective is to predict each student’s final grade, which ranges from 0 to 20. In this project, the data file used is called student-data.csv (Math).

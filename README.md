@@ -10,3 +10,16 @@ Overview:
 This project analyzes student performance data to predict final grades. 
 It explores how early academic performance (G1 and G2) and other factors 
 such as alcohol consumption, study time, and family support influence outcomes.
+
+Data:
+The dataset includes:
+- G1, G2: Early term grades
+- G3: Final grade (target)
+- Dalc: Workday alcohol consumption
+- Walc: Weekend alcohol consumption
+- Study time, family support, and other behavioral/demographic features
+
+- Models:
+- - Linear Regression
+- Lasso Regression
+- Support Vector Regression (tuned)

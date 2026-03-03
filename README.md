@@ -19,7 +19,14 @@ The dataset includes:
 - Walc: Weekend alcohol consumption
 - Study time, family support, and other behavioral/demographic features
 
-- Models:
-- - Linear Regression
+Models:
+- Linear Regression
 - Lasso Regression
 - Support Vector Regression (tuned)
+
+Takeaways:
+- Including early grades (G1, G2) significantly improves prediction accuracy.
+- RMSE with grades: 2.12, R²: 0.78
+- RMSE without grades: 4.19, R²: 0.14
+- Alcohol consumption negatively correlates with final grades.
+- Early interventions can focus on non-grade factors when grades are not yet available.

@@ -33,3 +33,6 @@ Takeaways:
 
 Student Academic Performance Dataset:
 This dataset is available from the UCI Machine Learning Repository. It contains 30 attributes describing students in mathematics and Portuguese courses. The main objective is to predict each student’s final grade, which ranges from 0 to 20. In this project, the data file used is called student-data.csv (Math).
+
+
+Data: Student Performance Data Set, Paulo Cortez, UCI Machine Learning Repository, CC BY 4.0

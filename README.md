@@ -24,6 +24,15 @@ Models:
 - Lasso Regression
 - Support Vector Regression (tuned)
 
+How to Run This Project
+1. Clone the repository
+git clone https://github.com/helyada/student_performance.git
+cd student_performance
+2. Install dependencies
+pip install -r requirements.txt
+3. Run the notebook Open: student_performance.ipynb
+Run all cells to reproduce the analysis.
+
 Takeaways:
 - Including early grades (G1, G2) significantly improves prediction accuracy.
 - RMSE with grades: 2.12, R²: 0.78
